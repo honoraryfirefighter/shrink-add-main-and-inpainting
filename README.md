@@ -1,0 +1,1 @@
+# shrink-add-main-and-inpainting
